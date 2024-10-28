@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manju-Patil-Appu
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Engineering in AI & DS
-- 💞️ I’m looking to collaborate on AI companies
+- 💞️ I’m looking to collaborate on AI Innovatives
 - 📫 How to reach me @manjupatil2611@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Easypisy😊
