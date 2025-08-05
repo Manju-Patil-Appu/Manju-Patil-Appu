@@ -31,14 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🧠 Current Goals
 
 - ✅ Mastering AI tools & techniques
@@ -51,11 +43,11 @@
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="www.linkedin.com/in/manju-patil-96a6301bb" target="_blank">
+    <img src="C:\Users\Manoj Patil\Downloads\linkedin.png" />
   </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:manjupatil2611@gmail.com">
+    <img src="C:\Users\Manoj Patil\Downloads\mail.png"/>
   </a>
 </p>
 
