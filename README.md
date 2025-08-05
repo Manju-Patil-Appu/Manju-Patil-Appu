@@ -44,10 +44,10 @@
 
 <p>
   <a href="www.linkedin.com/in/manju-patil-96a6301bb" target="_blank">
-    <img src="C:\Users\Manoj Patil\Downloads\linkedin.png" />
+    <img src= "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
   <a href="mailto:manjupatil2611@gmail.com">
-    <img src="C:\Users\Manoj Patil\Downloads\mail.png"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
